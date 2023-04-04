@@ -59,6 +59,7 @@ class ProductOverview extends StatelessWidget {
             },
             icon: Icon(
               Icons.shopping_cart,
+              color: Colors.black,
             ),
           )
         ],
